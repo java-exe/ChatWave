@@ -21,7 +21,7 @@ level, not just use a library that handles it. Ended up going further than plann
 
 ## Requirements
 
-- Java 21 (uses virtual threads)
+- Java 21
 
 ## Running
 
